@@ -26,7 +26,7 @@ This is a walkthrough of how I created A Virtual Machine environment using VMWar
 <b>The first thing I am going to do is Download Nessus Essentials, my Vulnerability management software. It takes a long time to download so I can accomplish a few things while it is downloading, like downloading Windows 10 on a Virtual Machine and configuring it (which also takes a long time)</b> <br/>
 </p>
 
-![Downloading Nessus](https://github.com/user-attachments/assets/aca7f452-47b3-495d-ad63-9c63b84d53f7)
+![Image](https://github.com/user-attachments/assets/aca7f452-47b3-495d-ad63-9c63b84d53f7)
 
 <br />
 <br />
