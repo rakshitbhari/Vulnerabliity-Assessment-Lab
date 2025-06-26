@@ -12,7 +12,7 @@ This is a walkthrough of how I created A Virtual Machine environment using VMWar
 <h2>Environments Used </h2>
 
 - <b>VMWare</b>
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
 <h2>Links</h2>
 
