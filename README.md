@@ -26,7 +26,7 @@ This is a walkthrough of how I created A Virtual Machine environment using VMWar
 <b>The first thing I am going to do is Download Nessus Essentials, my Vulnerability management software. It takes a long time to download so I can accomplish a few things while it is downloading, like downloading Windows 10 on a Virtual Machine and configuring it (which also takes a long time)</b> <br/>
 </p>
 
-![Image](https://github.com/user-attachments/assets/aca7f452-47b3-495d-ad63-9c63b84d53f7)
+![Downloading Nessus](https://github.com/user-attachments/assets/aca7f452-47b3-495d-ad63-9c63b84d53f7)
 
 <br />
 <br />
@@ -42,7 +42,8 @@ This is a walkthrough of how I created A Virtual Machine environment using VMWar
 <b>Nessus at this point is still downloading and my Virtual Machine successfully downloads Windows 10, so I open up CMD to figure out it's IP address which I will need to be able to run vulnerability scans on Nessus. I named the VM Admin. The screenshot shows that the IP address is 192.168.50.185</b> <br/>
 </p>
 
-![VM_IP](https://user-images.githubusercontent.com/108043108/177885744-426519f2-bd27-406c-a6eb-f71ef5a6bdcb.JPG)
+![VM_IP](https://github.com/rakshitbhari/Vulnerabliity-Assessment-Lab/blob/257102247bcfd428118dfdcf510d6935f08fe60d/Images/3.jpeg)
+
 
 <br />
 <br />
